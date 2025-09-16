@@ -1,13 +1,13 @@
 # jellyfin-bulk-editor
 
-Interactive CLI tools to bulk edit tags and users in Jellyfin
-
-An interactive, dependency-light Bash script that bulk adds/removes metadata in Jellyfin.
+An interactive, dependency-light Bash script collection that bulk adds/removes metadata in Jellyfin.
 
 With these scripts you can interactively update:
 
-Library: Item Tags
-Users: Library Access, Allow Tags, Block Tags
+Library Item Tags
+User Library Access
+User Allow Tags
+User Block Tags
 
 
 Dependencies: bash, curl, jq
