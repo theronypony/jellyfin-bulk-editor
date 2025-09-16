@@ -5,8 +5,11 @@ An interactive, dependency-light Bash script collection that bulk adds/removes m
 With these scripts you can interactively update:
 
 Library Item Tags
+
 User Library Access
+
 User Allow Tags
+
 User Block Tags
 
 
