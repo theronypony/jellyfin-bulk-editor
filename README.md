@@ -4,13 +4,13 @@ An interactive, dependency-light Bash script collection that bulk adds/removes m
 
 With these scripts you can interactively update:
 
-_Library Item Tags
+--Library Item Tags
 
-User Library Access
+--User Library Access
 
-User Allow Tags
+--User Allow Tags
 
-User Block Tags_
+--User Block Tags
 
 
 Dependencies: bash, curl, jq
